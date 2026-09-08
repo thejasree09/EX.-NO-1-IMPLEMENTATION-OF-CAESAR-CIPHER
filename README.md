@@ -1,6 +1,6 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-### NAME: KIRUTIKA K R
-### REG NO: 212224230128
+### NAME: THEJA SREE G
+### REG NO: 212224110056
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
 
